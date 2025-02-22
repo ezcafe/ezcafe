@@ -1,14 +1,13 @@
 ![Q's GitHub Banner](./assets/GitHubHeader.jpg)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/quang-pt/)
-[![Skype Badge](https://img.shields.io/badge/Skype-Profile-00aff0?style=flat&logo=skype&logoColor=white&color=00aff0)](https://join.skype.com/invite/EaNvPi1Le1tB)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=skype&logoColor=white&color=red)](mailto:ptquang86@gmail.com)
 
 Hi there 👋
 
 I’m **Quang**, a Lead Engineer with over 18 years of experience in software engineering, team leadership, and project execution.
 
-Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/quang-pt/)
+Want to know more about me? [Check out my Linkedin.](https://www.linkedin.com/in/quang-pt/)
 
 <!--
 ## 💼 Skills
