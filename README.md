@@ -10,6 +10,7 @@ I’m **Quang**, a Lead Engineer with over 18 years of experience in software en
 
 Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/quang-pt/)
 
+<!--
 ## 💼 Skills
 
 #### Frontend
@@ -54,6 +55,6 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 <a href="https://github.com/ezcafe">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ezcafe&show_icons=true&line_height=27&count_private=true&theme=vue" alt="Martin's GitHub Stats" />
 </a>
-
+-->
 <br>
 <br>
