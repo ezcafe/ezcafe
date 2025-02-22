@@ -6,9 +6,7 @@
 
 Hi there 👋
 
-I’m **Quang**, a Senior Frontend Developer with over 10 years experience.
-
-I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m **Quang**, a Lead Engineer with over 18 years of experience in software engineering, team leadership, and project execution.
 
 Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/quang-pt/)
 
